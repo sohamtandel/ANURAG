@@ -1,0 +1,5 @@
+X= eval(input("enter the number"))
+y= eval(input("enter the second number"))
+a=x-y
+print(a)
+print("enter any key to continue")
